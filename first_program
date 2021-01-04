@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main(void)
+{
+cout<<"The Size of integers is :"<<sizeof(int);
+cout<<"The Size of character is :"<<sizeof(char);
+cout<<"The Size of float is :"<<sizeof(float);
+cout<<"The size of double is :"<<sizeof(double);
+return 0;
+}
